@@ -30,10 +30,10 @@ class App extends React.Component {
     const { threshold } = this.state
 
     if ((last.x === null) && (last.y === null) && (last.z === null)) {
-        last.x = current.x
-        last.y = current.y
-        last.z = current.z
-        return
+      last.x = current.x
+      last.y = current.y
+      last.z = current.z
+      return
     }
 
     const deltaX = Math.abs(last.x - current.x)
