@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ジャンケン",
+  "name": "振ってジャンケン！",
   "icons": [
     {
       "src": "favicon.ico",
