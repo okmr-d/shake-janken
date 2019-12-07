@@ -121,6 +121,7 @@ class App extends React.Component {
         <div className="app">
           <div className="title-container">
             <h1 className="title">〜 振ってジャンケン 〜</h1>
+            <div className="help">スマホやタブレットでみてね</div>
           </div>
           <div className="hands-container">
             <ul className="start-hands">
